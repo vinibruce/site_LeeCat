@@ -1,0 +1,17 @@
+@charset "utf8";
+body{
+background-image:linear-gradient(blue 10%,yellow,green); 
+}
+main{
+padding: 50px;
+margin: auto;
+border-radius: 20px;
+background-color: rgba(232, 211, 252, 0.37);
+width: 1000px;
+}
+h1{
+   text-align: center;
+}
+h2{
+    text-align: center;
+}
